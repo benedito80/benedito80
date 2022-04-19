@@ -2,7 +2,7 @@
 ### Olá! Eu sou Benedito Batista.
 
 - 🔭 Estudando e focado em Desenvolvimeto Web Full Stack
-- 🌱 Aprendendo Angular, Node, React, Mongo, HTML e CSS
+- 🌱 Aprendendo Angular, Java, Spring, Node, React, Mongo, HTML e CSS
 
 
 <div align="center"><br>
